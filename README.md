@@ -2,7 +2,8 @@
 
 以竹北新月沙灘（鳳岡路五段14號）為中心的早餐／午餐／晚餐網頁（GitHub Pages）。
 
-- `index.html`：今天三餐、這週三餐總表
+- `index.html`：打開就是早餐頁（轉盤）
+- `today.html`：今天三餐、這週三餐總表
 - `breakfast.html`／`lunch.html`／`dinner.html`：各餐的轉盤、一週行程、投票＋揪團點餐、地圖、名單、聚餐紀錄
 - `shops_b.json`／`shops_l.json`／`shops_d.json`：各餐店家名單
 
